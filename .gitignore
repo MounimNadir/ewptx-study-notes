@@ -1,0 +1,27 @@
+# --- eWPTX Safe List ---
+
+# OS Generated Junk
+.DS_Store
+Thumbs.db
+
+# Proprietary Course Materials (DO NOT UPLOAD)
+*.pdf
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.mp4
+*.mkv
+*.zip
+*.rar
+
+# IDE & Config
+.vscode/
+.idea/
+*.log
+
+# Sensitive
+credentials.txt
+config.py
+.env
+
